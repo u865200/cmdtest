@@ -1,5 +1,5 @@
 <?php
 
-echo "apex fucking fat";
+echo "SHUT UP NO HAIR";
 
 ?>
